@@ -1,0 +1,1 @@
+Replication of McDermott et al.

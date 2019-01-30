@@ -1,0 +1,16 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(dplyr)
+
+load("data.RData")
+
+```
+
+```{r}
+
+x
+
+```
